@@ -5,8 +5,9 @@ An easy version Overcook by pygame, with only 2 players and three kinds of ingre
 We added 'attack' function so that players do not actually cooperate but attack another when cooking, just to make it more exciting to play.
 
 ## Rules: ##
-* Player in blue, press W,A,S,D for moving, C for taking ingredients (or dish), V for attack
-* Player in purple, press Up,Down,Left,Right for moving, K for taking ingredients (or dish), L for attack
+* For player in blue, press W,A,S,D to move, C to pick up or put down ingredients and dishes, V to attack
+* For player in purple, press Up,Down,Left,Right to move, K to pick up or put down ingredients and dishes, L for attack
+* Follow the recipes to make edible dishes. 
 
 ```
 # Start by typing in Terminal:
